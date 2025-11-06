@@ -1,6 +1,6 @@
 <p align="center">
-    <!--![imagen-readme-presentacion](../img/img-readme.jpg)-->
-    <img src="../img/img-readme.jpg" alt="Banner del proyecto" width="600">
+    [imagen-readme-presentacion](../img/img-readme.jpg)
+   <!--<img src="../img/img-readme.jpg" alt="Banner del proyecto" width="600">-->
 
 </p>
 
