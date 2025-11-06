@@ -1,7 +1,7 @@
-<!--<p align="center">
+<p align="center">
    <img src="../img/img-readme.jpg" alt="Banner del proyecto" width="600">
 
-</p>-->
+</p>
 
 [imagen-readme-presentacion](../img/img-readme.jpg)
 
