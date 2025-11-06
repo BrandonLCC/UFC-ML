@@ -1,10 +1,9 @@
-<!<p align="center">
-    <!--![imagen-readme-presentacion](../img/img-readme.jpg)-->
-    <img src="../img/img-readme.jpg" alt="Banner del proyecto" width="600">
+<p align="center">
+    <img src="img\img-readme.jpg" alt="Banner del proyecto" width="600">
 
-</p>-->
+</p>
 
-![imagen-readme-presentacion](img\img-readme.jpg)
+<!--![imagen-readme-presentacion](../img/img-readme.jpg)-->
 
 
 # Proyecto: UFC con machine learning
