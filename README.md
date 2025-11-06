@@ -3,7 +3,7 @@
 
 </p>-->
 
-    [imagen-readme-presentacion](../img/img-readme.jpg)
+[imagen-readme-presentacion](../img/img-readme.jpg)
 
 
 # Proyecto: UFC con machine learning
